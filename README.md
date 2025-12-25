@@ -31,4 +31,3 @@ This project simulates a satellite communication system where a signal is corrup
 ## Results
 * **`test_noise.wav`**: The corrupted signal (Input).
 * **`result_clean.wav`**: The recovered signal (Output).
-*
